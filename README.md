@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola a todos, Soy Cris</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;¡Hola! Soy Cris -->
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
